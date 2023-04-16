@@ -1,1 +1,27 @@
-[{"nickname":"Denis_Shelby","uniqID":0},{"nickname":"Marat_Dzafarov","uniqID":1},{"nickname":"Felix_Mansory","uniqID":2},{"nickname":"Jordan_Housten","uniqID":3},{"nickname":"Oleg_Leopardovich","uniqID":4},{"nickname":"White_Sakurai","uniqID":5},{"nickname":"Willy_Mansory","uniqID":6},{"nickname":"Lucifer_Young","uniqID":7}]a
+[
+    {
+        "nickname": "Denis_Shelby",
+        "uniqID": "0"
+    }, {
+        "nickname": "Marat_Dzafarov",
+        "uniqID": "1"
+    }, {
+        "nickname": "Felix_Mansory",
+        "uniqID": "2"
+    }, {
+        "nickname": "Jordan_Housten",
+        "uniqID": "3"
+    }, {
+        "nickname": "Oleg_Leopardovich",
+        "uniqID": "4"
+    }, {
+        "nickname": "White_Sakurai",
+        "uniqID": "5"
+    }, {
+        "nickname": "Willy_Mansory",
+        "uniqID": "6"
+    }, {
+        "nickname": "Lucifer_Young",
+        "uniqID": "7"
+    }
+]
