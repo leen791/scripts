@@ -1,17 +1,1 @@
-{
-    "nicknames": 
-    {
-        "Denis_Shelby", 
-        "Marat_Dzafarov",
-        "Felix_Mansory",
-        "Jordan_Housten",
-        "Oleg_Leopardovich",
-        "White_Sakurai",
-        "Willy_Mansory",
-        "Lucifer_Young"
-    },
-    "uniqID":
-    {
-        "0", "1", "2", "3", "4", "5", "6", "7", "8"
-    }
-}
+[{"nickname":"Denis_Shelby","uniqID":0},{"nickname":"Marat_Dzafarov","uniqID":1},{"nickname":"Felix_Mansory","uniqID":2},{"nickname":"Jordan_Housten","uniqID":3},{"nickname":"Oleg_Leopardovich","uniqID":4},{"nickname":"White_Sakurai","uniqID":5},{"nickname":"Willy_Mansory","uniqID":6},{"nickname":"Lucifer_Young","uniqID":7}]a
