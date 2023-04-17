@@ -1,51 +1,67 @@
 [
     {
         "nickname": "Denis_Shelby",
-        "uniqID": "0"
+        "uniqID": "0",
+        "server": "00"
     }, {
         "nickname": "Marat_Dzafarov",
-        "uniqID": "1"
+        "uniqID": "1",
+        "server": "08"
     }, {
         "nickname": "Felix_Mansory",
-        "uniqID": "2"
+        "uniqID": "2",
+        "server": "09"
     }, {
         "nickname": "Jordan_Housten",
-        "uniqID": "3"
+        "uniqID": "3",
+        "server": "08"
     }, {
         "nickname": "Oleg_Leopardovich",
-        "uniqID": "4"
+        "uniqID": "4",
+        "server": "09"
     }, {
         "nickname": "White_Sakurai",
-        "uniqID": "5"
+        "uniqID": "5",
+        "server": "09"
     }, {
         "nickname": "Willy_Mansory",
-        "uniqID": "6"
+        "uniqID": "6",
+        "server": "09"
     }, {
         "nickname": "Lucifer_Young",
-        "uniqID": "7"
+        "uniqID": "7",
+        "server": "09"
     }, {
         "nickname": "Harl_Den",
-        "uniqID": "8"
+        "uniqID": "8",
+        "server": "00"
     }, {
         "nickname": "Kin_Sakurai",
-        "uniqID": "9"
+        "uniqID": "9",
+        "server": "09"
     }, {
         "nickname": "Sergey_Gonzales",
-        "uniqID": "10"
+        "uniqID": "10",
+        "server": "08"
     }, {
         "nickname": "Faust_Rodriguez",
-        "uniqID": "11"
+        "uniqID": "11",
+        "server": "08"
     }, {
         "nickname": "Egor_Giant",
-        "uniqID": "12"
+        "uniqID": "12",
+        "server": "08"
     }, {
         "nickname": "Nick_Nechertov",
-        "uniqID": "13"
+        "uniqID": "13",
+        "server": "08"
     }, {
         "nickname": "Sergey_Bearbovich",
-        "uniqID": "14"
+        "uniqID": "14",
+        "server": "08"
     }, {
         "nickname": "James_Corleone",
-        "uniqID": "15"
+        "uniqID": "15",
+        "server": "08"
     }
 ]
