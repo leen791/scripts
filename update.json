@@ -1,5 +1,5 @@
 {
     "file":"https://raw.githubusercontent.com/leen791/scripts/main/atools.luac",
-    "version":"0.1.7.1",
-    "change_log":"- Добавлен 20 сервер в скрипт"
+    "version":"0.1.7.2",
+    "change_log":"- Добавлен 21 сервер в скрипт\n- Убран FastConnect\n- Добавлены белые айди в никах над игроками"
 }
