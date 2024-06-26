@@ -1,5 +1,5 @@
 {
     "file":"https://raw.githubusercontent.com/leen791/scripts/main/atools.luac",
-    "version":"0.1.8.7",
+    "version":"0.1.8.8",
     "change_log":"- Была исправлена ситуация когда выданный деморган не засчитывался"
 }
